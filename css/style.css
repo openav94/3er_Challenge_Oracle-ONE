@@ -1,0 +1,70 @@
+html{
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    padding: 20px 0;
+
+}
+
+.caja{
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+}
+
+h2 a{
+    position: absolute;
+    top: 50%;
+
+    color: #464646;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+
+nav{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 32px;
+
+}
+
+nav a{
+    color: #464646;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+
+#contactos{
+    font-weight: bold;
+}
+
+#saludos{
+    color: #464646;
+    font-size: 52px;
+    font-weight: bold;
+
+}
+
+#descripcion{
+    color: #464646;
+    font-size: 22px;
+    padding-top: 24px;
+}
+
+.presentacion{
+    position:absolute;
+    top: 181px;
+    left: 152px;
+    right: 557px;
+
+}
+
