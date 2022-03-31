@@ -11,6 +11,7 @@ header{
     width: 80%;
     position: relative;
     margin: 0 auto;
+    
 }
 
 h2 a{
@@ -18,7 +19,7 @@ h2 a{
     top: 50%;
 
     color: #464646;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
     text-decoration: none;
     
@@ -38,7 +39,7 @@ nav li{
 
 nav a{
     color: #464646;
-    font-size: 15px;
+    font-size: 16px;
     text-decoration: none;
 
 }
@@ -60,11 +61,44 @@ nav a{
     padding-top: 24px;
 }
 
+#perfil{
+    position:absolute;
+    right: 140px;
+    left: 1050px;
+    top: 120px;
+    height: 368px;
+    width: 288px;
+    border-radius: 500px;
+
+}
+
 .presentacion{
     position:absolute;
     top: 181px;
     left: 152px;
-    right: 557px;
+    right: 537px;
 
 }
 
+div li {
+    display: inline;
+    margin: 0 0 0 32px;
+}
+
+.redes{
+    color: #464646;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.sociales{
+    position: absolute;
+    top: 403px;
+    right: 821px;
+    left: 152px;
+}
+
+.icono-link{
+    padding-left: 4.69px;
+}
