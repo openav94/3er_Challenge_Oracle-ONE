@@ -59,6 +59,7 @@ nav a{
     color: #464646;
     font-size: 22px;
     padding-top: 24px;
+    text-align: justify;
 }
 
 #perfil{
@@ -94,7 +95,7 @@ div li {
 
 .sociales{
     position: absolute;
-    top: 403px;
+    top: 435px;
     right: 821px;
     left: 152px;
 }
